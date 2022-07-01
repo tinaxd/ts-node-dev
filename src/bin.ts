@@ -22,6 +22,7 @@ const tsNodeFlags = {
     'skip-ignore',
     'compiler-host',
     'script-mode',
+    'esm'
   ],
 
   string: [
